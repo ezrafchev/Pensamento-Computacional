@@ -1,2 +1,2 @@
-# Pensamento-Computacional
-Resumo sobre pensamento computacional em HTML
+# Pensamento-Computacional :computer:
+* Resumo sobre pensamento computacional em HTML
